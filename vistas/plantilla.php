@@ -11,7 +11,7 @@ session_start();
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Inventory System</title>
+  <title>SHOPIFY EX</title>
 
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
@@ -52,6 +52,9 @@ session_start();
 
   <!-- Morris chart -->
   <link rel="stylesheet" href="vistas/bower_components/morris.js/morris.css">
+
+  <!-- Theme style -->
+  <link rel="stylesheet" href="vistas/dist/css/letras.css">
 
   <!--=====================================
   PLUGINS DE JAVASCRIPT
